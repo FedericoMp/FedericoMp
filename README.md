@@ -4,7 +4,7 @@ I’m Federico Pérez, frontend developer & web designer, self-taught programer 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/federico-m-perez/)
 [![Stackblitz Badge](https://img.shields.io/badge/Stackblitz-Profile-informational?style=flat&logo=stackbit&logoColor=white&color=black)](https://stackblitz.com/@FedericoMp)
-[![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=00bcd4)](https://linktr.ee/FedericoMp)
+<!-- [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=00bcd4)](https://linktr.ee/FedericoMp) -->
 
 <br>
 
