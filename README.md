@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I’m Federico Pérez, frontend developer & web designer, self-taught programer and new technologies fan. What I do is translate templates and designs into pixel-perfect applications or awesome websites.
+I’m Federico Pérez, frontend developer & web designer, self-taught programer and new technologies fan. What I do is transform templates and designs into pixel-perfect applications or awesome websites.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/federico-m-perez/)
 [![Stackblitz Badge](https://img.shields.io/badge/Stackblitz-Profile-informational?style=flat&logo=stackbit&logoColor=white&color=black)](https://stackblitz.com/@FedericoMp)
