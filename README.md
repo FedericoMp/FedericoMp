@@ -11,15 +11,16 @@ I’m Federico Pérez, frontend developer & web designer, self-taught programer 
 
 ## 🖥️ &nbsp;Web Apps & Sites
 
+> **Work Experience**
+- [Portfolio](https://federicomp.github.io/portfolio/)
+
 > **Static Websites**
 - [Website with animations effects](https://federicomp.github.io/soundnext/)
 - [Static website with transitions](https://federicomp.github.io/bgb/)
-- [Js website commerce](https://federicomp.github.io/web-comerce/)
 
 > **React Apps**
 - [Social Media Dashboard with React](https://federicomp.github.io/social-media-dashboard/)
 - [Budget Calculator with React](https://stackblitz.com/edit/react-presupuesto)
-- [Web App React.js](https://stackblitz.com/edit/react-cotizador-seguros)
 <br>
 
 ## 💼 &nbsp;Skills
@@ -55,7 +56,7 @@ I’m Federico Pérez, frontend developer & web designer, self-taught programer 
 <br>
 
 <details>
-<summary>✨ More Skills</summary>
+<summary>✨ Other Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Code-Babel-informational?style=flat&logo=Babel&logoColor=white&color=f0d02c)
